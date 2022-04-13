@@ -1236,6 +1236,7 @@ Zack Bryant
 - [Sillix] 
 - [xuyi]
 - [hwangsr]
+- AKAKPO
 - [xpctnc] (https://github.com/xpctnc)
 - [Avishkar Vichare] (https://github.com/AvishkarVichare)
 - [Balogun Muhammad Kassim] (https://github.com/Yondiame)
